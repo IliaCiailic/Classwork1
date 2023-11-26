@@ -1,0 +1,17 @@
+.content{
+    font-size:20px;
+    background-color:White;
+}
+.header{
+    font-size:40px;
+    color:White;
+    background-color:Blue;
+    text-align:Center;
+    font-family:verdana;
+}
+.footer{
+    font-size:40px;
+    padding:30px;
+    background-color:Red;
+    font-weight:200;
+}
